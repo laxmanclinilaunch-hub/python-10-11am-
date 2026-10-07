@@ -1,7 +1,3 @@
-numpy
-pandas
-matplot
-seaborn
-tensorflow
-keras
-scikit-learn
+
+fastapi
+uvicorn
